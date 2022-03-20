@@ -1,6 +1,4 @@
-hello I'm @Kraghen
-I like godot and stuff
-buy frogiee or pain
+# _kraghen
 
 <!---
 Kraghen/Kraghen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
